@@ -4,4 +4,4 @@ Hello Everyone!
 This is my first repository on GitHub!
 Technology always fascinates me.
 I like learning new things.
-This repo just includes a README file. My better projects....you'll see them soon.
+Great projects....you'll see them soon.
